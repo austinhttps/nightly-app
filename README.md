@@ -2,8 +2,6 @@
 
 A single-page, atmospheric music player celebrating the discography of alt-pop band **Nightly**. Featuring an interactive 33⅓ RPM vinyl turntable, stadium floodlight aesthetics inspired by their album *BASEBALL IN AMERICA*, dynamic ambient glow themes, and full track playback across their catalog.
 
-![nightly vinyl player](https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=1200&q=80)
-
 ---
 
 ## ✨ Features
